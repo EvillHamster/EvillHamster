@@ -19,7 +19,9 @@
       }
     </style>
   </defs>
-  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" dx="2">Evill Hamster</text>
+
+  <!-- Текст точно по центру -->
+  <text x="50%" y="50%" text-anchor="middle" alignment-baseline="central">
+    Evill Hamster
+  </text>
 </svg>
-
-
