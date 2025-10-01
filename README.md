@@ -2,6 +2,8 @@
    <img src="assets/name.svg" />
 </div>
 
+___
+
 ###
 
 <h3 align="left">👩‍💻  Обо мне</h3>
