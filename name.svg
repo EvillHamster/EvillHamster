@@ -1,27 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 100" width="800" height="100">
   <defs>
-    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#3828ca"/>
-      <stop offset="100%" stop-color="#ff004c"/>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3828ca">
+        <animate attributeName="stop-color" values="#3828ca;#ff004c;#3828ca" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#ff004c">
+        <animate attributeName="stop-color" values="#ff004c;#3828ca;#ff004c" dur="3s" repeatCount="indefinite"/>
+      </stop>
     </linearGradient>
-    <style>
-      @keyframes gradientShift {
-        0% { stop-color: #3828ca; }
-        50% { stop-color: #ff004c; }
-        100% { stop-color: #3828ca; }
-      }
-      text {
-        font-family: 'Inter', Arial, sans-serif;
-        font-weight: 900;
-        font-size: 64px;
-        fill: url(#gradient);
-        animation: gradientShift 3s ease infinite;
-      }
-    </style>
   </defs>
-
-  <!-- Текст точно по центру -->
-  <text x="50%" y="50%" text-anchor="middle" alignment-baseline="central">
-    Evill Hamster
+  <text x="400" y="50" text-anchor="middle" dominant-baseline="middle"
+        font-family="Inter, Arial, sans-serif" font-size="64" font-weight="900" fill="url(#grad)">
+    EvillHamster
   </text>
 </svg>
