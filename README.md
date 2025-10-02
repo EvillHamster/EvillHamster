@@ -6,7 +6,7 @@
 
 </div>
 <div align="center">
-  <img align="right" width="420" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
+  <img align="right" width="320" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 </div>
 
 <h3>🚀 Обо мне</h3>
