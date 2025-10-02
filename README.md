@@ -1,47 +1,61 @@
 <div align="center">
-   <img src="assets/name.svg" />
+  
+# Привет, меня зовут Айдар! 👋
+
+###
+
+</div>
+<div align="center">
+  <img align="right" width="420" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 </div>
 
+<h3>🚀 Обо мне</h3>
+
+
+🎯 **Мой путь в IT:**  
+Начал увлекаться программированием в начале 2024 года. Пробовал разные языки - Python, C#, но нашел себя во Frontend-разработке.
+
+🎓 **Обучение:**  
+Начинал с YouTube-туториалов, сейчас прохожу курс **"Профессия Веб-разработчик"** на Arckon.ru (июль 2024 - настоящее время)
+
+💡 **Цели:**  
+Стать профессиональным Frontend-разработчиком и сменить профессию
 
 ###
 
-<h3 align="left">👩‍💻  Обо мне</h3>
+<h3>
+   🛠 Технологии и инструменты
+</h3>
+<img src="https://skillicons.dev/icons?i=js,html,css,figma&theme=light" height="50" />
 
 ###
-<img align="right" margin-top="5px" alt="Coder GIF" width=310 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
-<div style="max-width: 50%; text-align: left;">
-   <p style="text-align: left;"> 
-      Я начинающий fronted-разработчик. Мой путь начался с обычного увлечения программированием в начале 2024г. Попробовал несколько языков, первый был Python, затем C#. В поисках себя как программиста, я понял, что мне больше по душе Fronted.
-   </p> 
-   <p style="text-align: left;">
-      Сначала я проходил туториалы на YouTube, затем решился и приобрёл курс в июле 2025 на Aroken.ru — <i>"Профессия Веб-разработчик"</i>, где обучаюсь и по сей день.
-   </p> 
-</div>
+<h3>
+ 📊 Статистика
+</h3>
 
-###
-
-<h3 align="left">🛠 Технологии:</h3>
-
-###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EvillHamster&theme=radical" width="400" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvillHamster&layout=compact&theme=radical" width="400" />
 </div>
 
-###
 
-<h3 align="left">🔥   Моя статистика :</h3>
+<h3>📈 Активность</h3>
 
-<a href="https://github.com/muskanrani/github-readme-stats"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvillHamster&layout=compact&theme=tokyonight" /></a>
-<img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=EvillHamster&theme=tokyonight" alt="muskanrani" />
-<br/>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=EvillHamster.EvillHamster&"  />
-![](https://komarev.com/ghpvc/?username=EvillHamste&color=brightgreen)
-![](https://visitor-badge.glitch.me/badge?page_id=EvillHamster.EvillHamster)
-<img src="https://img.shields.io/github/forks/EvillHamster/EvillHamster?style=social"></img>
+<div align="left">
+
+![Visitors](https://komarev.com/ghpvc/?username=EvillHamster&color=blue&style=flat)
+![Repositories](https://badges.strrl.dev/repos/EvillHamster?style=flat&color=blue)
+
+
+</div>
+
+
+<h3>💬 Свяжитесь со мной:</h3>
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xamitgan)
+[![VK](https://img.shields.io/badge/ВКонтакте-4C75A3?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/khamitov_aidar)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.xamitgan@gmail.com)
+
 
